@@ -1,0 +1,14 @@
+1 10:
+Sorted in 0 seconds and 0 microseconds.
+Sorted in 0 seconds and 0 microseconds.
+Sorted in 0 seconds and 0 microseconds.
+Sorted in 0 seconds and 0 microseconds.
+
+1 10000:
+Sorted in 0 seconds and 85080 microseconds.
+Sorted in 8 seconds and 614089 microseconds.
+Sorted in 0 seconds and 158111 microseconds.
+Sorted in 0 seconds and 2001 microseconds.
+
+1 100000:
+Sorted in 7 seconds and 889593 microseconds.
